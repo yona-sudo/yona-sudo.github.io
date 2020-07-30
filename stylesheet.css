@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+@media (max-width: 670px) {
+  body {
+    width: 100%;
+  }
+
 li {
   list-style: none;
   
