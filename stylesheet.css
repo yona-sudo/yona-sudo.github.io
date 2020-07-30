@@ -4,8 +4,18 @@
 
 @media (max-width: 670px) {
   body {
-    width: 100%;
+    width:100%;
   }
+
+  .btn {
+    width: 100%;
+
+  }
+
+  .facebook {
+    margin-bottom: 10px;
+  }
+}
 
 li {
   list-style: none;
